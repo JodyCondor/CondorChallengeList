@@ -1,1 +1,20 @@
+{
+    "id": 104721150,
+    "name": "Prémus",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/EY3qSpmOQHA",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
 
+        {
+            "user": "Orgen",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}
