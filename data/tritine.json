@@ -9,12 +9,19 @@
     "password": "",
     "records": [
 
-        {
+       {
             "user": "Equallake",
-            "link": "",
+            "link": "", 
+            "percent": 100,
+            "hz": 69
+       },
+       {
+            "user": "Togatta",
+            "link": "", 
             "percent": 100,
             "hz": 69
        }
+        
         
     ]
 }
